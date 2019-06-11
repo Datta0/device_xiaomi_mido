@@ -1,7 +1,7 @@
 [
   {
     "remote": "github",
-    "repository": "AliHasan7671/proprietary_vendor_xiaomi",
+    "repository": "Datta0/proprietary_vendor_xiaomi",
     "target_path": "vendor/xiaomi",
     "branch": "pie"
   },
