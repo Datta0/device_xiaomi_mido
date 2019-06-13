@@ -1,18 +1,15 @@
 [
   {
-    "remote": "github",
-    "reposiroty": "LineageOS/android_packages_resources_devicesettings",
+    "reposiroty": "Datta0/android_packages_resources_devicesettings",
     "target_path": "packages/resources/devicesettings",
-    "branch": "lineage-16.0"
+    "branch": "pie"
   },
   {
-    "remote": "github",
     "repository": "Datta0/proprietary_vendor_xiaomi",
     "target_path": "vendor/xiaomi",
     "branch": "pie"
   },
   {
-    "remote": "github",
     "repository": "penglezos/android_kernel_xiaomi_msm8953",
     "target_path": "kernel/xiaomi/msm8953",
     "branch": "pie"
