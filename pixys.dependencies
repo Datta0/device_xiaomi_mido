@@ -1,6 +1,6 @@
 [
   {
-    "reposiroty": "Datta0/android_packages_resources_devicesettings",
+    "repository": "Datta0/android_packages_resources_devicesettings",
     "target_path": "packages/resources/devicesettings",
     "branch": "pie"
   },
